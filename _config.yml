@@ -1,1 +1,11 @@
+title: Swapnil Andhale # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior iOS Developer
+  <br><br>
+  <a href="mailto:swapnilandhale3@gmail.com">swapnilandhale3@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/swapnilandhale/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/swapnilAndhale/">Gihub</a> 
 theme: jekyll-theme-minimal
