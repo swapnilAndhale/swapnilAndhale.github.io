@@ -7,9 +7,9 @@ I am a iOS developer with an experience of over 3.5 years. I have hands on exper
 ## Skills
 
 <p align='left'>
-  <img src='swiftui-og' alt="Swift" width="40" height="40">
+  <img src='swiftui-og.png' alt="Swift" width="40" height="40">
   
-  <img src='' alt="css" width="40" height="40">
+  <img src='Swift_logo.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
