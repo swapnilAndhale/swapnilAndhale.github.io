@@ -7,9 +7,9 @@ I am a iOS developer with an experience of over 3.5 years. I have hands on exper
 ## Skills
 
 <p align='left'>
-  <img src='swiftui-og.png' alt="Swift" width="40" height="40">
-  
   <img src='Swift_logo.svg.png' alt="css" width="40" height="40">
+  &nbsp;
+  <img src='swiftui-og.png' alt="Swift" width="40" height="40">
 </p>
 
 ---
