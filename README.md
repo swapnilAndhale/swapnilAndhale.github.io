@@ -19,7 +19,7 @@ I am a iOS developer with an experience of over 3.5 years. I have hands on exper
 ### **SENIOR SOFTWARE DEVELOPER**
 ### ACCENTURE SOLUTIONS PVT, LTD
 
-Working on swift , Apple native mobile application development language and UIKit framework. Created chat functionality, note taking page. Working on desigining and developeing mobile apps for fortune 500 companies.
+Working on Swift, Apple native mobile application development language using UIKit and SwiftUI frameworks. Created chat functionality, note taking page. Working on desigining and developeing mobile apps for fortune 500 companies.
 Migrated Objective-C code to Swift.
 
 ---
