@@ -32,6 +32,6 @@ Migrated Objective-C code to Swift.
 ---
 
 ### INTERESTS
-Apart from being a iOS developer, I do content creation on Instagram. I provide freelancing on videos creation.
+Apart from being a iOS developer, I do content creation on Instagram and Youtube. 
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different places and explore different cultures. When I am inside , I play box cricket with my brother :) in my free time.
+I enjoy being outdoors, so I go for run everyday. I love travelling to different places and explore different cultures. When I am inside ,I play box cricket with my brother :) in my free time.
